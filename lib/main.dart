@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage> {
                       );
                     },
                     itemCount: movies == null ? 0 : movies.length,
-                  )
+                  ),
                 ],
               ),
             ),
